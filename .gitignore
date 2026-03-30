@@ -9,3 +9,7 @@ ENV/
 
 # chache
 .cache
+
+# Python Cache
+__pycache__/
+*.pyc
