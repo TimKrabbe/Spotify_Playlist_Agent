@@ -8,10 +8,11 @@ The starting point then would be an artist that fits the user input, and from th
 Those curated tracks are then searched in spotify and put into a playlist.
 
 ## Work in progress
+Next steps:
 - reduce token usage
-- local implementation using for example Ollama 
+- local implementation using Ollama for example
 - possibly expanding to other streaming services where possible
-- making more track selection a bit more sophisticated
+- making track selection a bit more sophisticated
 
 ## Tech Stack
 - Anthropic Claude claude-sonnet-4-20250514 (Anthropic SDK)
